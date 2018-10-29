@@ -40,6 +40,7 @@ This is a repo created to remember the Hacktober Fest organized by Github, Digit
 * [Nikhil Singh](https://github.com/nikhils4) | [VIT](http://www.vit.ac.in/)
 * [james Babu](https://github.com/jamieb10)   | [Amal Jyothi College of Engineering](https://www.ajce.in/)
 * [Your Name](http://yourgithuburl) | [Your School/Uni](https://www.youruniurl/)  
+* [Name](http://githuburl) | [School/Uni](https://www.uniurl/)
 
 *Please follow the github Markdown format strictly else PR request might get neglected*    
 *Change the demo details and enter your details there, make sure to leave a demo markdown code there for other as it was before.*  
